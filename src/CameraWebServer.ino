@@ -14,8 +14,8 @@
 
 U8G2_SSD1306_128X64_NONAME_F_SW_I2C u8g2(U8G2_R0, OLED_SCL, OLED_SDA, U8X8_PIN_NONE);
 
-const char* ssid     = "realme 12 Pro+ 5G";
-const char* password = "r4bnhhnja";
+const char* ssid     = "*********";
+const char* password = "*********";
 
 void startCameraServer();
 void setupLedFlash(int pin);
